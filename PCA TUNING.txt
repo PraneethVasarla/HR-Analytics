@@ -1,0 +1,212 @@
+[CV] subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8
+[CV] subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8
+[CV] subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8
+[CV] subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8
+[I 11:49:27.898 LabApp] Saving file at /HR Analytics-Copy1.ipynb
+[CV]  subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8, score=0.962, total= 4.4min
+[CV]  subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8, score=0.959, total= 4.4min
+[CV] subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8
+[CV] subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8, score=0.961, total= 4.4min
+[CV] subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8, score=0.961, total= 4.4min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8, score=0.962, total= 4.3min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8, score=0.962, total= 4.3min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=700, min_child_weight=1, max_depth=5, learning_rate=0.05, gamma=0.5, colsample_bytree=0.8, score=0.960, total= 4.4min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6, score=0.962, total= 6.2min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6, score=0.962, total= 6.2min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6, score=0.962, total= 6.2min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6, score=0.964, total= 6.2min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6, score=0.965, total= 6.4min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6, score=0.962, total= 6.4min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=1, max_depth=10, learning_rate=0.2, gamma=5, colsample_bytree=0.6, score=0.963, total= 6.5min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0, score=0.963, total=10.4min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0, score=0.964, total=10.2min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0, score=0.963, total=10.0min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0, score=0.966, total=10.0min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6, score=0.953, total= 3.6min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0, score=0.965, total= 9.9min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0, score=0.965, total= 9.9min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6, score=0.956, total= 3.6min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6, score=0.956, total= 3.7min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6, score=0.957, total= 3.7min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=1, max_depth=8, learning_rate=0.1, gamma=1, colsample_bytree=1.0, score=0.964, total=10.0min
+[CV] subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0
+[I 12:30:15.328 LabApp] Saving file at /HR Analytics-Copy1.ipynb
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6, score=0.956, total= 3.7min
+[CV] subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6, score=0.958, total= 3.7min
+[CV] subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=1, max_depth=6, learning_rate=0.02, gamma=1.5, colsample_bytree=0.6, score=0.957, total= 3.6min
+[CV] subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0, score=0.946, total= 4.0min
+[CV] subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0, score=0.952, total= 4.0min
+[CV] subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0, score=0.949, total= 4.0min
+[CV] subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0, score=0.951, total= 4.1min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8
+[CV]  subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0, score=0.950, total= 4.0min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8
+[CV]  subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0, score=0.952, total= 4.0min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8
+[CV]  subsample=1.0, n_estimators=800, min_child_weight=10, max_depth=3, learning_rate=0.05, gamma=0.5, colsample_bytree=1.0, score=0.953, total= 4.0min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8, score=0.956, total= 6.5min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8, score=0.958, total= 6.6min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8, score=0.957, total= 6.6min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8, score=0.959, total= 6.6min
+[CV] subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8, score=0.957, total= 6.4min
+[CV] subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8, score=0.959, total= 6.5min
+[CV] subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0, score=0.951, total= 5.5min
+[CV] subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=10, learning_rate=0.5, gamma=2, colsample_bytree=0.8, score=0.959, total= 6.4min
+[CV] subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0, score=0.957, total= 5.5min
+[CV] subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0, score=0.956, total= 5.5min
+[CV] subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0, score=0.957, total= 5.5min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8
+[CV]  subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0, score=0.957, total= 5.5min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8
+[CV]  subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0, score=0.958, total= 5.6min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8
+[CV]  subsample=1.0, n_estimators=850, min_child_weight=1, max_depth=4, learning_rate=0.05, gamma=1, colsample_bytree=1.0, score=0.956, total= 5.6min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8, score=0.959, total= 6.3min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8, score=0.961, total= 6.4min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8, score=0.961, total= 6.5min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8, score=0.962, total= 6.5min
+[CV] subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8, score=0.962, total= 6.3min
+[CV] subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8, score=0.961, total= 6.3min
+[CV] subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.945, total= 3.0min
+[CV] subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.950, total= 3.0min
+[CV] subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.947, total= 3.0min
+[CV] subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=5, max_depth=7, learning_rate=0.06, gamma=5, colsample_bytree=0.8, score=0.962, total= 6.2min
+[CV] subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.951, total= 3.0min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0
+[CV]  subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.949, total= 3.0min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0
+[CV]  subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.950, total= 3.0min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0
+[CV]  subsample=0.6, n_estimators=750, min_child_weight=10, max_depth=4, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.950, total= 3.0min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0, score=0.954, total= 7.0min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0, score=0.957, total= 7.0min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0, score=0.957, total= 7.1min
+[CV] subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0, score=0.958, total= 7.1min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6, score=0.956, total= 1.9min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6, score=0.960, total= 1.9min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0, score=0.958, total= 6.8min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0, score=0.958, total= 6.6min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6, score=0.958, total= 1.9min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6
+[CV]  subsample=1.0, n_estimators=700, min_child_weight=1, max_depth=6, learning_rate=0.03, gamma=1.5, colsample_bytree=1.0, score=0.958, total= 6.6min
+[CV] subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6, score=0.959, total= 1.9min
+[CV] subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6, score=0.958, total= 1.8min
+[CV] subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6, score=0.958, total= 1.9min
+[CV] subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=600, min_child_weight=5, max_depth=3, learning_rate=0.4, gamma=5, colsample_bytree=0.6, score=0.959, total= 1.9min
+[CV] subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8, score=0.953, total= 7.0min
+[CV] subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8, score=0.956, total= 7.1min
+[CV] subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8, score=0.953, total= 7.0min
+[CV] subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8, score=0.956, total= 7.0min
+[CV] subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8, score=0.957, total= 5.2min
+[CV] subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8, score=0.955, total= 7.0min
+[CV] subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8, score=0.955, total= 7.0min
+[CV] subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.6, n_estimators=850, min_child_weight=5, max_depth=7, learning_rate=0.01, gamma=1, colsample_bytree=0.8, score=0.956, total= 7.0min
+[CV] subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8, score=0.958, total= 5.3min
+[CV] subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8, score=0.958, total= 5.3min
+[CV] subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8
+[CV]  subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8, score=0.960, total= 5.3min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8, score=0.960, total= 5.3min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8, score=0.959, total= 5.3min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=850, min_child_weight=5, max_depth=5, learning_rate=0.5, gamma=1, colsample_bytree=0.8, score=0.960, total= 5.3min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6, score=0.962, total= 7.5min
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6, score=0.964, total= 7.5min
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6, score=0.963, total= 7.3min
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6, score=0.965, total= 7.3min
+[CV] subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6
+[CV] subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6
+[CV] subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6
+[CV] subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.948, total= 3.1min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.953, total= 3.0min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6, score=0.964, total= 7.3min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6, score=0.964, total= 7.4min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=800, min_child_weight=10, max_depth=10, learning_rate=0.03, gamma=1.5, colsample_bytree=0.6, score=0.965, total= 7.4min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.950, total= 3.0min
+[CV] subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.953, total= 3.0min
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.952, total= 3.0min
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.953, total= 3.0min
+[CV]  subsample=0.8, n_estimators=600, min_child_weight=5, max_depth=5, learning_rate=0.02, gamma=0.5, colsample_bytree=0.6, score=0.953, total= 2.9min
